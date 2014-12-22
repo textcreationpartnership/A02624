@@ -35,29 +35,54 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A prophesie of Cadvvallader, last king of the Britaines containing a comparison of the English kings
+
+1. TO THE NO LESSE VERtuous
+then Honourable Gentleman
+Syr Philip Herbert, Knight of the
+moſt noble order of the Bathe.
+
+1. The Epiſtle Dedicatorie.
+
+1. THE AVTHOR TO HIS
+Poeme.
+
+1. To the Reader.
+
 #####Body#####
 
-1. The Compariſon.
+1. A PROPHESIE OF
+Cadwallader, laſt King of
+the Britaines.
 
-1. Henry the fift, his lyfe and death.
+    _ The Compariſon.
 
-1. The Ciuill Warres.
+    _ Henry the fift, his lyfe and death.
 
-1. The Field of Banbery.
+    _ The Ciuill Warres.
 
-1. The Earle of Warwicks ſpeech.
+    _ The Field of Banbery.
 
-1. The Earle of Pembrookes Oration.
+    _ The Earle of Warwicks ſpeech.
 
-1. The loſſe of Elizabeth.
+    _ The Earle of Pembrookes Oration.
 
-1. TO THE MAIESTIE OF
+    _ The loſſe of Elizabeth.
+
+    _ TO THE MAIESTIE OF
 King Iames, Monarch of all
 Britayne.
 
 #####Back#####
-A prophesie of Cadvvallader, last king of the Britaines containing a comparison of the English kings
+
+1. TO THE WORTHY AND
+Honourable Gentleman Sir Philip
+Harbert, Knight of the moſt
+Noble Order of the
+Bathe.
+
+1. TO THE IVDICIOVS
+Reader.
+
 **Types of content**
 
   * There are 1809 **verse** lines!
